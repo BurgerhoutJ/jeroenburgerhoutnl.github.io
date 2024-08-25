@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jeroen Burgerhout | Microsoft365 Consultant &amp; Microsoft Certified Trainer</title>
+    <title>Jeroen Burgerhout | Modern Workplace Brewer, Microsoft MVP and MCT</title>
     <link>https://jeroenburgerhout.nl/</link>
-    <description>Recent content on Jeroen Burgerhout | Microsoft365 Consultant &amp; Microsoft Certified Trainer</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jeroenburgerhout.nl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on Jeroen Burgerhout | Modern Workplace Brewer, Microsoft MVP and MCT</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://jeroenburgerhout.nl/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
